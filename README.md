@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This guide provides instructions on how to reproduce the training of a deep learning model and generate training graphs. The model is built using pre-trained architectures (InceptionV3, MobileNetV2, VGG16) with additional trainable layers.
+This guide provides instructions on how to reproduce the training of a deep learning models and generate training graphs for flower classification of 104 types. experimentation is done with pre-trained architectures (InceptionV3, MobileNetV2, VGG16) with additional trainable layers.
 
 ## Prerequisites
 
